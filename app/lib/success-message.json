@@ -1,0 +1,9 @@
+{
+	"USER_LOGGED_IN": "User Logged In Successfully",
+	"USER_REGISTERED" : "User Registered Successfully",
+	"ITEM_ADDED": "Item Added Successfully",
+	"ITEM_UPDATED": "Item Updated Successfully",
+	"ITEM_DELETED": "Item Deleted Successfully",
+	"ITEM_LIST_FETCHED": "Item List Fetched Successfully",
+	"ITEM_DETAIL_FETCHED": "Item Detail Fetched Successfully"
+}

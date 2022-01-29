@@ -1,0 +1,7 @@
+{
+	"UNAUTHORIZED" : "Unauthorized",
+    "INTERNAL_SERVER_ERROR": "Internal Server Error",
+	"NO_USER_FOUND": "No User Found",
+	"ITEM_NOT_FOUND": "Item Not Found",
+	"USER_ALREADY_REGISTERED": "User Already Register"
+}
